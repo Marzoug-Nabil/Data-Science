@@ -1,5 +1,17 @@
 # Data-Science
-A Data Science project from kaggle  in which a numerous and interesting Questions were answered, additionally a streamlit application was developed
-for this data science project
-<img src="61932c032e0a0173df6d2377_What is Web Scraping.jpg" alt="MarineGEO circle logo" style="height: 500px; width:700px;"/>
+<img src="Sales.jpg" alt="MarineGEO circle logo" style="height: 500px; width:1000px;"/>
+
+## First Part
+The first part of this data science project from kaggle is to do the explatory data analysis and answer some related questions.
+## Second part
+The second part of this project is to create a web application for this project using the Streamlit library
+
+Install relevant Libraries 
+==========================
+
+    $ pip install streamlit
+    $ pip install pandas
+    $ pip install matplotlib
+    $ pip install opendatasets
+    
 
